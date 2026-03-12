@@ -29,3 +29,8 @@ c#프로그래밍학습
 <img width="797" height="478" alt="image" src="https://github.com/user-attachments/assets/3c627cfb-0812-4309-b066-36412e464a6a" />
 
 4.2단계코드의 실행 스크린샷
+
+
+
+구현시 어려웠던 점
+생각보다 오류가 많이 떠서 해결하기 어려웠다
