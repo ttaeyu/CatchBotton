@@ -1,6 +1,7 @@
 using System;
 using System.Drawing;
 using System.Windows.Forms;
+using System.Media;
 
 
 namespace CatchBotton
@@ -15,7 +16,8 @@ namespace CatchBotton
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("드디어 잡으셨네요! 축하합니다!", "검거 성공",
+                            MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void button1_MouseEnter(object sender, EventArgs e)
