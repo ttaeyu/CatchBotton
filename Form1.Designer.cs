@@ -33,12 +33,14 @@
             // 
             // button1
             // 
+            button1.BackColor = Color.FromArgb(255, 192, 128);
+            button1.ForeColor = SystemColors.ActiveCaptionText;
             button1.Location = new Point(187, 71);
             button1.Name = "button1";
             button1.Size = new Size(421, 185);
             button1.TabIndex = 0;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
+            button1.Text = "나를 잡아라";
+            button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             button1.MouseEnter += button1_MouseEnter;
             // 
