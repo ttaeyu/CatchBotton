@@ -15,6 +15,17 @@ c#프로그래밍학습
 
 <img width="800" height="476" alt="1545" src="https://github.com/user-attachments/assets/bcc35356-08fd-4891-b42a-0e854717f604" />
 
-3단계코드의 실행 스크린샷
+3.1단계코드의 실행 스크린샷
 
 <img width="800" height="478" alt="image" src="https://github.com/user-attachments/assets/634bb157-ea33-4a07-b77e-6d153a3655b9" />
+
+3.2단계코드의 실행 스크린샷
+
+<img width="797" height="475" alt="image" src="https://github.com/user-attachments/assets/14737654-0604-487f-a544-0ee3da6a9c6a" />
+
+
+4.1단계코드의 실행 스크린샷
+
+<img width="797" height="478" alt="image" src="https://github.com/user-attachments/assets/3c627cfb-0812-4309-b066-36412e464a6a" />
+
+4.2단계코드의 실행 스크린샷
